@@ -4,7 +4,7 @@ title: Representation Learning
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: Past
+category: Past, Current
 related_publications: true
 tags: [data Science, bla]
 ---
