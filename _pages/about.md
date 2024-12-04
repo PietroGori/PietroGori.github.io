@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am *Professeur* (PhD, HDR) TEST in Artificial Intelligence and Medical Imaging at Télécom Paris in the IMAGES group of the LTCI lab. I am also a research collaborator with the laboratory NeuroSpin at the CEA.
+I am *Professeur* (PhD, HDR) in Artificial Intelligence and Medical Imaging at Télécom Paris in the IMAGES group of the LTCI lab. I am also a research collaborator with the laboratory NeuroSpin at the CEA.
 
 I completed my PhD (2012-2015) with Inria at the ARAMIS Lab in Paris, under the supervision of Stanley Durrleman (Inria Researcher), Olivier Colliot (CNRS Research Director) and Nicholas Ayache (Inria Research Director). This was followed by a postdoctoral fellowship (2016) at Neurospin (CEA), working with Edouard Duchesnay (CEA Research Scientist) and Jean-François Mangin (CEA Research Director). Prior to that, I obtained a MSc in Mathematical Modelling and Computation from the DTU in Copenhagen (2012) and a MSc in Biomedical Engineering from the University of Padova (2012). 
 
