@@ -1,81 +1,52 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Subgroup Discovery
+description:
+img: assets/img/heteroParse.png
 importance: 3
 category: Past
+related_publications: true
+permalink: /projects/Subgroup
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Title** : Stratification of psychiatric diseases into homogeneous subgroups    
+**Project coordinator** : Edouard Duchesnay   
+**Participants** : Pietro Gori and Robin Louiset  
+**Institutions** : Télécom Paris and NeuroSpin (CEA)  
+**Funding**: PhD CEA funding (110k)  
+**Period** : 2020-2024  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Context and Challenges** - In the past decades, unsupervised and self-supervised learning techniques have proven to be particularly effective at identifying relevant patterns and factors of variation within a dataset. Combined with powerful Neural Networks (NNs), these methods can produce semantically rich representations. Notably, unsupervised Deep Clustering (DC) methods seek to produce a suitable representation space for identifying homogeneous latent clusters based on the general variability of the entire dataset (i.e., imaging patterns common to all samples). With a different perspective, Subgroup Discovery (SD) in medical applications aims at identifying relevant latent subtypes/subgroups that arise from the pathological variability of the diseased population and not from the irrelevant common variability that may exist in both healthy subjects (i.e., controls) and diseased patients. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<div class="text-center">
+    {% include figure.liquid path="assets/img/ucsl_principles.png" width="80%" max-width="100%" %}
+</div>
+
+For instance, in clinical research, it is essential to identify subtypes of patients with a given disorder (red dots in the figure above). However, the general variability that stems from age or sex, and which is observed in both healthy controls (grey dots) and patients will probably drive the clustering of patients to a non-specific solution (2nd plot). Instead, subtypes should be defined only by the modes of variation (horizontal arrow) specific to the pathology, thus discarding nonspecific variability and emphasizing more disease-related differences (3rd plot).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/deep_ucsl_compared_with_deep_cluster.png" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+In the figure above, we use an intuitive toy example based on the MNIST dataset to better clarify the differences between Deep Clustering and Subtype Discovery. We consider the digit ”7” as the pathological group and all the other digits as the healthy group. Results show how Deep Cluster’s subgroups  of the digit “7” are only defined by the most predominant characteristics (i.e.: boldness of the digit) common to all digits. Instead, a Subtype Discovery method, such as the proposed UCSL or Deep UCSL, disregards these common characteristics and uses only the specific patterns of the digit “7” (i.e., the presence of the crossing middle bar) to define the subgroups. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+**Goal**: Propose new machine-learning methods to better stratify highly-heterogeneous mental disorders using anatomical MRI data. This should help human experts discover or validate subgroups, while relying on reproducible, data-driven, and objective imaging patterns.
 
-{% raw %}
+**Contributions**
+By contrasting controls with patients, we proposed two new methods to identify subgroups that arise solely from the pathological variability specific to the disease, while disregarding the common variability shared with the controls. We named these methods UCSL {% cite louiset_ucsl_2021 %}, which is based on linear Machine Learning techniques, and Deep UCSL {% cite louiset_automatic_2024 %}, which utilizes Deep Learning instead. The objectives of both methods are:  
+a) to accurately identify the pathological subgroups,  
+b) to ensure that healthy samples are not assigned to a pathological subgroup, and      
+c) to effectively distinguish each subgroup from the healthy class.  
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
-{% endraw %}
+
+
+
+
+
+
+
+

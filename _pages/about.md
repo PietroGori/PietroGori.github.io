@@ -6,23 +6,23 @@ subtitle:
 
 profile:
   align: right
-  image: profile.png
+  image: profile.png # size can be changed in _layout.scss
   image_circular: true # crops the image to make it circular
   more_info: 
     
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am *Professeur* (PhD, HDR) in Artificial Intelligence and Medical Imaging at Télécom Paris in the IMAGES group of the LTCI lab. I am also a research collaborator with the research laboratory NeuroSpin at the CEA.
+I am *Professeur* (PhD, HDR) in Artificial Intelligence and Medical Imaging at Télécom Paris in the IMAGES group of the LTCI lab. I am also a research collaborator with the laboratory NeuroSpin at the CEA.
 
 I completed my PhD (2012-2015) with Inria at the ARAMIS Lab in Paris, under the supervision of Stanley Durrleman (Inria Researcher), Olivier Colliot (CNRS Research Director) and Nicholas Ayache (Inria Research Director). This was followed by a postdoctoral fellowship (2016) at Neurospin (CEA), working with Edouard Duchesnay (CEA Research Scientist) and Jean-François Mangin (CEA Research Director). Prior to that, I obtained a MSc in Mathematical Modelling and Computation from the DTU in Copenhagen (2012) and a MSc in Biomedical Engineering from the University of Padova (2012). 
 
 In 2017, I joined Télécom Paris as *Maître de conférences* (Associate Professor) and earned my HDR (Habilitation à diriger des recherches, IPParis) in 2024. In the same year, I was promoted to the rank of *Professeur* (Full Professor).
 
-I participated to the development of the open source software [deformetrica](https://pypi.org/project/deformetrica/) for statistical shape analysis and of the software platform [Clinica](https://www.clinica.run/) for clinical neuroimaging studies.
+I participated to the development of the open source software [deformetrica](https://pypi.org/project/deformetrica/) for statistical shape analysis and of the software platform [Clinica](https://www.clinica.run/) for clinical neuroimaging studies. I am currently an Associate Editor for *Neurocomputing* and regularly serve as a reviewer for conferences and journals in Medical Imaging (*e.g.,* MICCAI, MIDL, ISBI, IEEE TMI, MedIA) and AI (*e.g.,* ICLR, AISTATS, AAAI, ECCV, JMLR, TPAMI).
 
 My research interests lie primarily in the fields of machine learning, AI, representation learning, medical imaging and computational anatomy.
 

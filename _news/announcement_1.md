@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-12-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+**Open positions**: 2 internships in Representation Learning, Generative AI and Contrastive Learning applied to Medical Imaging ([First](assets/pdf/Stage_Proposal_Contr.pdf), [Second](assets/pdf/Stage_Proposal_Distill.pdf))
+

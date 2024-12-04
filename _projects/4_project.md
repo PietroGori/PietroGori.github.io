@@ -1,80 +1,47 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Contrastive Analysis
+description: 
+img: assets/img/CA-hetero.png
+importance: 2
+category: Current
+related_publications: true
+permalink: /projects/CA
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div class="text-center">
+    {% include figure.liquid path="assets/img/Team-CA.png" width="90%" max-width="100%" %}
+</div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Context** Learning disentangled generative factors in an unsupervised way has gathered much attention lately since it is of interest in many domains, such as medical imaging. Most approaches look for factors that capture distinct, noticeable and semantically meaningful variations in one dataset (e.g., presence of hat or glasses in CelebA). Authors usually propose well adapted regularizations, which may promote, for instance, ”uncorrelatedness” (e.g., FactorVAE) or ”informativeness” (e.g., InfoGAN).   
+In this project, we focus on a related but different problem, that has been named Contrastive Analysis (CA). We wish to discover in an unsupervised way what is added or modified on a target dataset compared to a control (or background) dataset, as well as what is common between the two domains. For example, in medical imaging, one would like to discover the salient variations characterizing a pathology that are only present in a population of patients (tumors or glasses in the figure below) and not in a population of healthy controls. Both the target (patients) and the background (healthy) datasets are supposed to share uninteresting (healthy) variations. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="text-center">
+    {% include figure.liquid path="assets/img/CA.png" width="80%" max-width="100%" %}
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Two examples of datasets for Contrastive Analysis. <strong>First dataset</strong>: Brain MRI images with/without tumors. Top: MRI images of healthy brains (control dataset). Bottom: MRI images of brains with tumor (target dataset). <strong>Second dataset</strong>: CelebA dataset. Top: control dataset with regular faces (no smile, no glasses). Bottom: target dataset that contains smiling faces with glasses. 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Goal** The goal is to identify and separate the generative factors common to both populations from the ones distinctive (i.e., specific) only of the target dataset
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+
+**Contributions**
+Lately, we have proposed three new CA methods based on: 
+1. Variational AutoEncoders (VAE), {% cite louiset_sepvae_2024 %}
+2. Generative Adversarial Network (GAN) {% cite carton_double_2024 %}, and
+3. Contrastive Learning {% cite louiset_separating_2024 %}
+
+
+**Results**
+Let $$X={x_i}$$ and $$Y={y_j}$$ be the background (or control) and target datasets of images repsectively. Both $${x_i}$$ and $${y_j}$$ are assumed to be i.i.d. from two different and unknown distributions ($$P(x)$$ and $$P(y)$$) that depend on a pair of latent variables $$(c, s)$$. Here, $$s$$ is assumed to capture the salient generative factors proper only to $$Y$$ whereas $$c$$ should describe the common generative factors between $$X$$ and $$Y$$.   
+At inference, each one of the proposed CA method can estimate the common $$c_t$$ and salient $$s_t$$ factors specific to a test image $$t$$. We can thus test the performance of the algorithm by evalating its reconstruction quality and by swapping the salient factors between a background and target image, as shown in the figure below (each row presents a different result). 
+
+
+<div class="text-center">
+    {% include figure.liquid path="assets/img/DoubleInfoGAN.png" width="80%" max-width="100%" %}
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+ Image reconstruction and swap with the CelebA with accessories dataset.
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

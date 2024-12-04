@@ -14,8 +14,9 @@ keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://perso.telecom-paristech.fr/pgori/ # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+
+url: 'https://perso.telecom-paristech.fr/pgori/' # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -188,8 +189,6 @@ newsletter:
 
 collections:
   news:
-    defaults:
-      layout: post
     output: false
     permalink: /:collection/:title/
   projects:
@@ -200,7 +199,7 @@ collections:
     permalink: /:collection/:title
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
