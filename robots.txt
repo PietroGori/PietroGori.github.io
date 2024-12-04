@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://perso.telecom-paristech.fr/pgori//sitemap.xml
+Sitemap: https://PietroGori.github.io/sitemap.xml
