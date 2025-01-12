@@ -40,7 +40,7 @@ engineering, was traditionally hard. Deep Learning has changed this paradigm by 
 
 | Date | Time | Title | Type | Room | Instructor |  
 |---------------|---------------|---------------|  
-|13/01/2025|13:30-16:45|Introduction + Transfer Learning|[Cours](../assets/pdf/Corso_RepresentationLearning_Intro.pdf) + TP|5B07|P. Gori|  
+|13/01/2025|13:30-16:45|Introduction + Transfer Learning|[Cours](../assets/pdf/Corso_RepresentationLearning_Intro.pdf) + [TP](https://partage.imt.fr/index.php/s/FnNwsNBYWkcNsn5) + [Rendu](https://partage.imt.fr/index.php/s/gPTsc4KECjDJDA6)|5B07|P. Gori|  
 |20/01/2025|13:30-16:45|Domain Adaptation + Multitask Learning + Knowledge Distillation|[Cours](../assets/pdf/Corso_RepresentationLearning_Intro.pdf) + TP|5B07|P. Gori| 
 |27/01/2025|13:30-16:45|Self-Supervised Learning 1|[Cours](../assets/pdf/Corso_Self_Supervised.pdf) + TP|5B07|P. Gori| 
 |03/02/2025|13:30-16:45|Self-Supervised Learning 2|[Cours](../assets/pdf/Corso_Self_Supervised.pdf) + TP|3A209|P. Gori| 

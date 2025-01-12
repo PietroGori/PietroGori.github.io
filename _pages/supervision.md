@@ -10,6 +10,7 @@ nav_order: 4
 
 <div style="text-align: center;"><h2>PhD Students</h2></div>
 
+
 <div style="margin-bottom: 20px;">
 <div class="person">
   <img src="../assets/img/gauthier_miralles.jpeg" alt="Miralles" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
@@ -30,7 +31,7 @@ nav_order: 4
 </div>
 
 <div class="person">
-  <img src="../assets/img/ismael.jpeg" alt="Dabboussi" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <img src="../assets/img/ismael.jpeg" alt="Ismael" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Ismaël Mounim</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2023 - 12/2026</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> E. Angelini (Télécom Paris), G. El Fakhri and Chao Ma (Yale Medical School)</p>
@@ -39,7 +40,7 @@ nav_order: 4
 </div>
 
 <div class="person">
-  <img src="../assets/img/ali.jpeg" alt="Dabboussi" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <img src="../assets/img/ali.jpeg" alt="Ali" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Ali Mammadov</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2022 - 12/2025</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. Le Folgoc (Télécom Paris), G. Hocquet and J. Adam (Paris Saint-Joseph hospital)</p>
@@ -48,7 +49,7 @@ nav_order: 4
 </div>
 
 <div class="person">
-  <img src="../assets/img/emma.jpg" alt="Dabboussi" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <img src="../assets/img/emma.jpg" alt="Emma" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Emma Sarfati</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 09/2022 - 10/2025</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Télécom Paris), Alexandre Bône (Guerbet) and Marc-Michel Rohe (Guerbet)</p>
