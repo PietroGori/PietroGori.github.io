@@ -12,6 +12,27 @@ nav_order: 4
 
 
 <div style="margin-bottom: 20px;">
+
+<div class="person">
+  <img src="../assets/img/Marie.png" alt="Marie" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Marie Arrivat</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2025 - 12/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> E. Angelini (Télécom Paris) and R. Peyret (Primaa)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Data efficient, robust and weakly supervised learning for computational pathology</p>
+  <div style="clear: both;"></div>
+</div>
+
+
+<div class="person">
+  <img src="../assets/img/syrine.jpeg" alt="Syrine" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Syrine Chennoufi</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2025 - 12/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> M. Labeau (Télécom Paris) and M. Huard (Milvue)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Vision-language models for Medical Imaging</p>
+  <div style="clear: both;"></div>
+</div>
+
+
 <div class="person">
   <img src="../assets/img/gauthier_miralles.jpeg" alt="Miralles" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Gauthier Miralles</b></h5>
@@ -25,7 +46,7 @@ nav_order: 4
   <img src="../assets/img/Mohamad_Dabboussi.jpeg" alt="Dabboussi" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Mohamad Dabboussi</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 05/2024 - 10/2027</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> Y. Gousseau (Télécom Paris) and Malo Huard (Milvue)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> Y. Gousseau (Télécom Paris) and M. Huard (Milvue)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Multi-view fracture detection in planar X-ray</p>
   <div style="clear: both;"></div>
 </div>
