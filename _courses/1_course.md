@@ -41,13 +41,13 @@ engineering, was traditionally hard. Deep Learning has changed this paradigm by 
 | Date | Time | Title | Type | Room | Instructor |  
 |---------------|---------------|---------------|  
 |13/01/2025|13:30-16:45|Introduction + Transfer Learning|[Cours](https://partage.imt.fr/index.php/s/Pdt9FA9Xgm7J89x) + [TP](https://partage.imt.fr/index.php/s/FnNwsNBYWkcNsn5) + [Intro Pytorch](https://partage.imt.fr/index.php/s/jrny5JYQLnXb8yP) + [Rendu](https://partage.imt.fr/index.php/s/gPTsc4KECjDJDA6)|5B07|P. Gori|  
-|20/01/2025|13:30-16:45|Domain Adaptation + Multitask Learning + Knowledge Distillation|[Cours](https://partage.imt.fr/index.php/s/Pdt9FA9Xgm7J89x) + TP|5B07|P. Gori| 
-|27/01/2025|13:30-16:45|Self-Supervised Learning 1|[Cours](../assets/pdf/Corso_Self_Supervised.pdf) + TP|5B07|P. Gori| 
-|03/02/2025|13:30-16:45|Self-Supervised Learning 2|[Cours](../assets/pdf/Corso_Self_Supervised.pdf) + TP|3A209|P. Gori| 
-|10/02/2025|13:30-16:45|Transformers 1|Cours + TP|5B07|L. Le Folgoc| 
+|20/01/2025|13:30-16:45|Domain Adaptation + Multitask Learning + Knowledge Distillation|[Cours](https://partage.imt.fr/index.php/s/Pdt9FA9Xgm7J89x) + TP|Amphi 4|P. Gori| 
+|27/01/2025|13:30-16:45|Self-Supervised Learning 1|[Cours](../assets/pdf/Corso_Self_Supervised.pdf) + TP|Amphi 5|P. Gori| 
+|03/02/2025|13:30-16:45|Self-Supervised Learning 2|[Cours](../assets/pdf/Corso_Self_Supervised.pdf) + TP|Amphi Dieng|P. Gori| 
+|10/02/2025|13:30-16:45|Transformers 1|Cours + TP|Amphi Dieng|L. Le Folgoc| 
 |17/02/2025|13:30-16:45|Transformers 2|Cours + TP|5B07|L. Le Folgoc| 
-|03/03/2025|13:30-16:45|Uncertainty, Interpretability and Explainability|Cours + TP|3A209|P. Gori|
-|10/03/2025|13:30-16:45| Variation AutoEncoders (VAE) and Disentanglement|Cours + TP|3A209|L. Le Folgoc| 
-|24/03/2025|13:30-16:45|Exam||3A209|| 
+|03/03/2025|13:30-16:45|Uncertainty, Interpretability and Explainability|Cours + TP|Amphi 4|P. Gori|
+|10/03/2025|13:30-16:45| Variation AutoEncoders (VAE) and Disentanglement|Cours + TP|Amphi Dieng|L. Le Folgoc| 
+|24/03/2025|13:30-16:45|Exam||Amphi Dieng|| 
 
 
