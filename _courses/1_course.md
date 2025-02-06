@@ -44,10 +44,10 @@ engineering, was traditionally hard. Deep Learning has changed this paradigm by 
 |20/01/2025|13:30-16:45|Domain Adaptation + Multitask Learning + Knowledge Distillation|[Cours](https://partage.imt.fr/index.php/s/Pdt9FA9Xgm7J89x) + [TP](https://partage.imt.fr/index.php/s/3MMLiRqRT83xfKY) + [Paper](https://partage.imt.fr/index.php/s/bBQaekwn4QeDjZP) + [Rendu](https://partage.imt.fr/index.php/s/fqyWY8cep3tf3WD)|Amphi 4|P. Gori| 
 |27/01/2025|13:30-16:45|Self-Supervised Learning 1|[Cours](https://partage.imt.fr/index.php/s/TdXKAAkzqL7wH3g) + [TP](https://partage.imt.fr/index.php/s/rc5cfnNBSeigHPE) + [Pre-trained Model](https://partage.imt.fr/index.php/s/3YiGAsX8bjoAx3i) + [Paper](https://partage.imt.fr/index.php/s/AmKA64Yfri4CBbi) + [Rendu](https://partage.imt.fr/index.php/s/Ko3xmdffBDR69gN)|Amphi 5|P. Gori| 
 |03/02/2025|13:30-16:45|Self-Supervised Learning 2|[Cours](https://partage.imt.fr/index.php/s/TdXKAAkzqL7wH3g) + [TP](https://partage.imt.fr/index.php/s/HBA3iCimydidsAZ) + [Pre-trained Model](https://partage.imt.fr/index.php/s/bSLoHRNHXqjfmpK) + [Paper](https://partage.imt.fr/index.php/s/SpDTxqKdzf8nmqQ) + [Rendu](https://partage.imt.fr/index.php/s/cPsBaXNsTGCfo6m)|Amphi Dieng|P. Gori| 
-|10/02/2025|13:30-16:45|Transformers 1|Cours + TP|Amphi Dieng|L. Le Folgoc| 
-|17/02/2025|13:30-16:45|Transformers 2|Cours + TP|5B07|L. Le Folgoc| 
-|03/03/2025|13:30-16:45|Uncertainty, Interpretability and Explainability|Cours + TP|Amphi 4|P. Gori|
-|10/03/2025|13:30-16:45| Variation AutoEncoders (VAE) and Disentanglement|Cours + TP|Amphi Dieng|L. Le Folgoc| 
+|10/02/2025|13:30-16:45|Transformers 1|[Cours](https://drive.google.com/file/d/13ZQ86M_PEczECBtpwyzwHSEYagJbrV7B/view?usp=sharing) + [TP](https://colab.research.google.com/drive/18EewP0WwmcevyZzs9Fhp1jhtizihdCIA?usp=drive_link) + [Rendu](https://partage.imt.fr/index.php/s/3BGTFgQRACtWw7J)|Amphi Dieng|L. Le Folgoc| 
+|17/02/2025|13:30-16:45|Transformers 2|[Cours](https://drive.google.com/file/d/13ZQ86M_PEczECBtpwyzwHSEYagJbrV7B/view?usp=sharing) + [TP](https://colab.research.google.com/drive/1VpjLsbt1QCHUvcG9ODZ04o5yctlD7ktp?usp=drive_link) + [Rendu](https://partage.imt.fr/index.php/s/Gt9FKHAJS7TPQtk) |5B07|L. Le Folgoc| 
+|03/03/2025|13:30-16:45|Uncertainty, Interpretability and Explainability|[Cours]() + [TP]() + [Rendu]()|Amphi 4|P. Gori|
+|10/03/2025|13:30-16:45|Variation AutoEncoders (VAE) and Disentanglement|[Cours]() + [TP]() + [Rendu](https://partage.imt.fr/index.php/s/g6PZze9DzC8iA29)|Amphi Dieng|L. Le Folgoc| 
 |24/03/2025|13:30-16:45|Exam||Amphi Dieng|| 
 
 
