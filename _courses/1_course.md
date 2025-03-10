@@ -47,7 +47,7 @@ engineering, was traditionally hard. Deep Learning has changed this paradigm by 
 |10/02/2025|13:30-16:45|Transformers 1|[Cours](https://drive.google.com/file/d/13ZQ86M_PEczECBtpwyzwHSEYagJbrV7B/view?usp=sharing) + [TP](https://colab.research.google.com/drive/18EewP0WwmcevyZzs9Fhp1jhtizihdCIA?usp=drive_link) + [Rendu](https://partage.imt.fr/index.php/s/3BGTFgQRACtWw7J)|Amphi Dieng|L. Le Folgoc| 
 |17/02/2025|13:30-16:45|Transformers 2|[Cours](https://drive.google.com/file/d/13ZQ86M_PEczECBtpwyzwHSEYagJbrV7B/view?usp=sharing) + [TP](https://colab.research.google.com/drive/1VpjLsbt1QCHUvcG9ODZ04o5yctlD7ktp?usp=drive_link) + [Rendu](https://partage.imt.fr/index.php/s/Gt9FKHAJS7TPQtk) |Amphi Dieng|L. Le Folgoc| 
 |03/03/2025|13:30-16:45|Variation AutoEncoders (VAE) and Disentanglement|[Cours](https://drive.google.com/file/d/1NE2RnaxBAXeYM4rHldHC4UsI2K5pPtd_/view?usp=sharing) + [TP1](https://colab.research.google.com/drive/1nLCVg6MeUnNBWW6TnioOuyXHx1yiEp00?usp=drive_link) + [TP2](https://colab.research.google.com/drive/1bZZpIqoTvho3t9w-UTpggr58N59gGrwe?usp=drive_link) + [Rendu](https://partage.imt.fr/index.php/s/g6PZze9DzC8iA29)|Amphi 4|L. Le Folgoc|
-|10/03/2025|13:30-16:45|Uncertainty, Interpretability and Explainability|[Cours]() + [TP]() + [Rendu]()|Amphi Dieng|P. Gori| 
-|24/03/2025|13:30-16:45|Written Exam||Amphi Dieng|| 
+|10/03/2025|13:30-16:45|Interpretability and Explainability|[Cours](https://partage.imt.fr/index.php/s/LoMrpgN98siZ7wo) + [TP](https://partage.imt.fr/index.php/s/tDNw5bqWQ9TfRm5) + [Rendu](https://partage.imt.fr/index.php/s/NnR99cKx3GY7oK6)|Amphi Dieng|P. Gori| 
+|24/03/2025|13:30-16:45|Written Exam||Amphi Thévenin|| 
 
 
