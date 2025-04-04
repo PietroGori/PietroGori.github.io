@@ -13,14 +13,23 @@ nav_order: 4
 
 <div style="margin-bottom: 20px;">
 
-<!-- <div class="person">
-  <img src="../assets/img/Julien.png" alt="Julien" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
-  <h5 style="margin: 0"><b>Marie Arrivat</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 03/2025 - 03/2028</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> J.F. Mangin (NeuroSpin,CEA)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> </p>
+<div class="person">
+  <img src="../assets/img/Simon.jpeg" alt="Simon" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Simon Lécluse</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 04/2025 - 04/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Sorbonne Université), M. Maillard, Théo Estienne (Deemea)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Leveraging Contextual Learning for 3D Neurological Image Retrieva </p>
   <div style="clear: both;"></div>
-</div> -->
+</div> 
+
+<div class="person">
+  <img src="../assets/img/Julien.jpeg" alt="Julien" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Julien Laval</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 03/2025 - 03/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> J.F. Mangin, D. Rivière, J. Chavas (NeuroSpin,CEA)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Learning a foundation model of cortical folding </p>
+  <div style="clear: both;"></div>
+</div> 
 
 <div class="person">
   <img src="../assets/img/Marie.png" alt="Marie" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
@@ -81,7 +90,7 @@ nav_order: 4
 <div class="person">
   <img src="../assets/img/emma.jpg" alt="Emma" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Emma Sarfati</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 09/2022 - 10/2025</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 09/2022 - 06/2025</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Télécom Paris), Alexandre Bône (Guerbet) and Marc-Michel Rohe (Guerbet)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Learning methods for the characterization of cholangiocarcinoma and helping therapeutic choices</p>
   <div style="clear: both;"></div>
