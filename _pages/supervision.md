@@ -17,7 +17,7 @@ nav_order: 4
   <img src="../assets/img/Simon.jpeg" alt="Simon" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Simon Lécluse</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 04/2025 - 04/2028</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Sorbonne Université), M. Maillard, Théo Estienne (Deemea)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Sorbonne Université), M. Maillard, T. Estienne (Deemea)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Leveraging Contextual Learning for 3D Neurological Image Retrieva </p>
   <div style="clear: both;"></div>
 </div> 
