@@ -1,3 +1,15 @@
+@article{mammadov_self_2025,
+	TITLE = {{Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study}},
+	AUTHOR = {Mammadov, Ali and Le Folgoc, Loic and Adam, Julien and Buronfosse, Anne and Hayem, Gilles and Hocquet, Guillaume and Gori, Pietro},
+	abstract={Multiple Instance Learning (MIL) has emerged as the best solution for Whole Slide Image (WSI) classification. It consists of dividing each slide into patches, which are treated as a bag of instances labeled with a global label. MIL includes two main approaches: instance-based and embedding-based. In the former, each patch is classified independently, and then the patch scores are aggregated to predict the bag label. In the latter, bag classification is performed after aggregating patch embeddings. Even if instance-based methods are naturally more interpretable, embedding-based MILs have usually been preferred in the past due to their robustness to poor feature extractors. However, recently, the quality of feature embeddings has drastically increased using self-supervised learning (SSL). Nevertheless, many authors continue to endorse the superiority of embedding-based MIL. To investigate this further, we conduct 710 experiments across 4 datasets, comparing 10 MIL strategies, 6 self-supervised methods with 4 backbones, 4 foundation models, and various pathology-adapted techniques. Furthermore, we introduce 4 instance-based MIL methods never used before in the pathology domain. Through these extensive experiments, we show that with a good SSL feature extractor, simple instance-based MILs, with very few parameters, obtain similar or better performance than complex, state-of-the-art (SOTA) embedding-based MIL methods, setting new SOTA results on the BRACS and Camelyon16 datasets. Since simple instance-based MIL methods are naturally more interpretable and explainable to clinicians, our results suggest that more effort should be put into well-adapted SSL methods for WSI rather than into complex embedding-based MIL methods.},
+	URL = {https://telecom-paris.hal.science/hal-05053847},
+	JOURNAL = {{Journal of Medical Imaging}},
+	abbr = {J. Med. Imaging},
+	PUBLISHER = {{SPIE Digital Library}},
+	YEAR = {2025},
+	code={https://github.com/mammadov7/wsi_classification_pipeline}
+}
+
 
 @inproceedings{louiset_separating_2024,
 	title = {Separating common from salient patterns with {Contrastive} {Representation} {Learning}},
