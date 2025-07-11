@@ -87,15 +87,6 @@ nav_order: 4
   <div style="clear: both;"></div>
 </div>
 
-<div class="person">
-  <img src="../assets/img/emma.jpg" alt="Emma" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
-  <h5 style="margin: 0"><b>Emma Sarfati</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 09/2022 - 06/2025</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Télécom Paris), Alexandre Bône (Guerbet) and Marc-Michel Rohe (Guerbet)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Learning methods for the characterization of cholangiocarcinoma and helping therapeutic choices</p>
-  <div style="clear: both;"></div>
-</div>
-
 </div>
 
 <div style="text-align: center;"><h2>Postdocs</h2></div>
@@ -121,6 +112,15 @@ nav_order: 4
 </div>
 
 <div style="text-align: center;"><h2>Alumni (PhD and Postdocs)</h2></div>
+<div class="person">
+  <img src="../assets/img/emma.jpg" alt="Emma" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Emma Sarfati</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 09/2022 - 06/2025</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Télécom Paris), Alexandre Bône (Guerbet) and Marc-Michel Rohe (Guerbet)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Machine Learning Engineer at Criteo.</p>
+  <div style="clear: both;"></div>
+</div>
+
 <div class="person">
   <img src="../assets/img/robin.jpeg" alt="Dabboussi" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Robin Louiset</b></h5>

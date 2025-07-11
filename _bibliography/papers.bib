@@ -1,3 +1,27 @@
+
+
+@inproceedings{mammadov_reducing_2025,
+	title = {Reducing Variability of Multiple Instance Learning Methods for Digital Pathology},
+	abstract = {Digital pathology has revolutionized the field by enabling the digitization of tissue samples into whole slide images ({WSIs}). However, the high resolution and large size of {WSIs} present significant challenges when it comes to applying Deep Learning models. As a solution, {WSIs} are often divided into smaller patches with a global label ({\textbackslash}textit\{i.e., diagnostic\}) per slide, instead of a (too) costly pixel-wise annotation. By treating each slide as a bag of patches, Multiple Instance Learning ({MIL}) methods have emerged as a suitable solution for {WSI} classification. A major drawback of {MIL} methods is their high variability in performance across different runs, which can reach up to 10-15 {AUC} points on the test set, making it difficult to compare different {MIL} methods reliably. This variability mainly comes from three factors: i) weight initialization, ii) batch (shuffling) ordering, iii) and learning rate. To address that, we introduce a Multi-Fidelity, Model Fusion strategy for {MIL} methods. We first train multiple models for a few epochs and average the most stable and promising ones based on validation scores. This approach can be applied to any existing {MIL} model to reduce performance variability. It also simplifies hyperparameter tuning and improves reproducibility while maintaining computational efficiency. We extensively validate our approach on {WSI} classification tasks using 2 different datasets, 3 initialization strategies and 5 {MIL} methods, for a total of more than 2000 experiments.},
+	booktitle = {Medical Image Computing and Computer Assisted Intervention – MICCAI},
+	author = {Mammadov, Ali and Folgoc, Loic Le and Hocquet, Guillaume and Gori, Pietro},
+	year = {2025},
+	URL = {https://arxiv.org/abs/2507.00292},
+	abbr = {MICCAI}
+}
+
+@inproceedings{dabboussi_self-supervised_2025,
+	title = {Self-Supervised Multiview Xray Matching},
+	abstract = {Accurate interpretation of multi-view radiographs is crucial for diagnosing fractures, muscular injuries, and other anomalies. While significant advances have been made in {AI}-based analysis of single images, current methods often struggle to establish robust correspondences between different X-ray views, an essential capability for precise clinical evaluations. In this work, we present a novel self-supervised pipeline that eliminates the need for manual annotation by automatically generating a many-to-many correspondence matrix between synthetic X-ray views. This is achieved using digitally reconstructed radiographs ({DRR}), which are automatically derived from unannotated {CT} volumes. Our approach incorporates a transformer-based training phase to accurately predict correspondences across two or more X-ray views. Furthermore, we demonstrate that learning correspondences among synthetic X-ray views can be leveraged as a pretraining strategy to enhance automatic multi-view fracture detection on real data. Extensive evaluations on both synthetic and real X-ray datasets show that incorporating correspondences improves performance in multi-view fracture classification.},
+	booktitle = {Medical Image Computing and Computer Assisted Intervention – MICCAI},
+	author = {Dabboussi, Mohamad and Huard, Malo and Gousseau, Yann and Gori, Pietro},
+	year = {2025},
+	URL = {https://telecom-paris.hal.science/hal-05053847},
+	abbr = {MICCAI}
+}
+
+
+
 @article{mammadov_self_2025,
 	TITLE = {{Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study}},
 	AUTHOR = {Mammadov, Ali and Le Folgoc, Loic and Adam, Julien and Buronfosse, Anne and Hayem, Gilles and Hocquet, Guillaume and Gori, Pietro},
