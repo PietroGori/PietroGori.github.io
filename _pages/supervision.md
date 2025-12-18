@@ -14,6 +14,61 @@ nav_order: 4
 <div style="margin-bottom: 20px;">
 
 <div class="person">
+  <img src="../assets/img/Kumar.jpg" alt="Akshita" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Akshita Kumar</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 02/2026 - 12/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> J.F. Mangin (NeuroSpin,CEA) and C Barbano (Inria)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Self-supervised learning for multi-modal longitudinal brain imaging data </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
+  <img src="../assets/img/RobinG.jpeg" alt="RobinG" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Robin Guiavarch</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2026 - 12/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> J.F. Mangin and D. Rivière (NeuroSpin,CEA)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Modeling and Learning the Development of Cortical Folding </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
+  <img src="../assets/img/Edgard.jpg" alt="Edgard" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Edgard Dabier</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 11/2025 - 11/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> F. Tupin and C. Kervazo (Télécom Paris)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Algorithm unrolling for hyperspectral unmixing </p>
+  <div style="clear: both;"></div>
+</div> 
+
+
+<div class="person">
+  <img src="../assets/img/Seb.jpg" alt="Seb" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Sébastien Roig</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2025 - 10/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> A. Laugros, A. Pacureanu (ESRF, Grenoble)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Machine learning methods for automated reconstruction of neural circuits from x-ray nanotomography data </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
+  <img src="../assets/img/Wett.jpg" alt="Wett" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Mathis Wetterwald</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2025 - 10/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> M. Wigger (Télécom Paris), B. Dufumier (NeuroSpin, CEA)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Multimodal self-supervised representation learning: an information theory perspective </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
+  <img src="../assets/img/Abdel.jpeg" alt="Abdel" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Chikh Abdelghani Baroud</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2025 - 10/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> J.F. Mangin and J. Chavas (NeuroSpin,CEA)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Multimodal weakly supervised Learning a foundation model of cortical folding </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
   <img src="../assets/img/Simon.jpeg" alt="Simon" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Simon Lécluse</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 04/2025 - 04/2028</p>
@@ -34,7 +89,7 @@ nav_order: 4
 <div class="person">
   <img src="../assets/img/Marie.png" alt="Marie" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Marie Arrivat</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2025 - 12/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2025 - 12/2027</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> E. Angelini (Télécom Paris) and R. Peyret (Primaa)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Data efficient, robust and weakly supervised learning for computational pathology</p>
   <div style="clear: both;"></div>
@@ -44,7 +99,7 @@ nav_order: 4
 <div class="person">
   <img src="../assets/img/syrine.jpeg" alt="Syrine" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Syrine Chennoufi</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2025 - 12/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2025 - 12/2027</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> M. Labeau (Télécom Paris) and M. Huard (Milvue)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Vision-language models for Medical Imaging</p>
   <div style="clear: both;"></div>
@@ -54,7 +109,7 @@ nav_order: 4
 <div class="person">
   <img src="../assets/img/gauthier_miralles.jpeg" alt="Miralles" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Gauthier Miralles</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 09/2024 - 10/2027</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 09/2024 - 09/2027</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. Le Folgoc (Télécom Paris) and V. Jugnon (GE HealthCare)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Domain adaptation for Deep Learning on interventional radiology imaging </p>
   <div style="clear: both;"></div>
@@ -63,7 +118,7 @@ nav_order: 4
 <div class="person">
   <img src="../assets/img/Mohamad_Dabboussi.jpeg" alt="Dabboussi" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Mohamad Dabboussi</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 05/2024 - 10/2027</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 05/2024 - 05/2027</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> Y. Gousseau (Télécom Paris) and M. Huard (Milvue)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Multi-view fracture detection in planar X-ray</p>
   <div style="clear: both;"></div>
@@ -72,18 +127,9 @@ nav_order: 4
 <div class="person">
   <img src="../assets/img/ismael.jpeg" alt="Ismael" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Ismaël Mounim</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2023 - 12/2026</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2023 - 06/2026</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> E. Angelini (Télécom Paris), G. El Fakhri and Chao Ma (Yale Medical School)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Posterior Estimation of MRI and PET parametric maps using variational auto-encoders</p>
-  <div style="clear: both;"></div>
-</div>
-
-<div class="person">
-  <img src="../assets/img/ali.jpeg" alt="Ali" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
-  <h5 style="margin: 0"><b>Ali Mammadov</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2022 - 12/2025</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. Le Folgoc (Télécom Paris), G. Hocquet and J. Adam (Paris Saint-Joseph hospital)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Deep SjS: a deep learning approach for the diagnosis and evolution prediction of the Sjögren’s syndrome</p>
   <div style="clear: both;"></div>
 </div>
 
@@ -101,17 +147,27 @@ nav_order: 4
   <div style="clear: both;"></div>
 </div>
 
-<div class="person">
-  <img src="../assets/img/yunlong.jpeg" alt="Yunlong" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
-  <h5 style="margin: 0"><b>Yunlong He</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2023 - 10/2025</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Improving GAN based Contrastive Analysis</p>
-  <div style="clear: both;"></div>
-</div>
-
 </div>
 
 <div style="text-align: center;"><h2>Alumni (PhD and Postdocs)</h2></div>
+
+<div class="person">
+  <img src="../assets/img/ali.jpeg" alt="Ali" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Ali Mammadov</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2022 - 12/2025</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. Le Folgoc (Télécom Paris), G. Hocquet and J. Adam (Paris Saint-Joseph hospital)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Deep SjS: a deep learning approach for the diagnosis and evolution prediction of the Sjögren’s syndrome</p>
+  <div style="clear: both;"></div>
+</div>
+
+<div class="person">
+  <img src="../assets/img/yunlong.jpeg" alt="Yunlong" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Yunlong He</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2023 - 12/2025</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Improving GAN and Diffusion based Contrastive Analysis</p>
+  <div style="clear: both;"></div>
+</div>
+
 <div class="person">
   <img src="../assets/img/emma.jpg" alt="Emma" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Emma Sarfati</b></h5>

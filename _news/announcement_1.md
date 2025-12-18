@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-12-01
+date: 2025-12-01
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-**Open positions**: 2 internships in Representation Learning, Generative AI and Contrastive Learning applied to Medical Imaging ([First](assets/pdf/Stage_Proposal_Contr.pdf), [Second](assets/pdf/Stage_Proposal_Distill.pdf))
+**Open positions**: 2 internships (with possible PhD funding) in Multi-Modal Representation Learning applied to Medical Imaging ([First](assets/pdf/Stage_APHP.pdf), [Second](assets/pdf/Stage_Proposal_Foundation.pdf))
 
