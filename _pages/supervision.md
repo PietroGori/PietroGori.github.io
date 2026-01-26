@@ -157,6 +157,7 @@ nav_order: 4
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2022 - 12/2025</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. Le Folgoc (Télécom Paris), G. Hocquet and J. Adam (Paris Saint-Joseph hospital)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Deep SjS: a deep learning approach for the diagnosis and evolution prediction of the Sjögren’s syndrome</p>
+   <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Computer Vision Research Engineer at SeeHaptic.</p>
   <div style="clear: both;"></div>
 </div>
 
@@ -165,6 +166,7 @@ nav_order: 4
   <h5 style="margin: 0"><b>Yunlong He</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2023 - 12/2025</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Improving GAN and Diffusion based Contrastive Analysis</p>
+   <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Post-doc.</p>
   <div style="clear: both;"></div>
 </div>
 
@@ -200,7 +202,7 @@ nav_order: 4
   <h5 style="margin: 0"><b>Carlo Alberto Barbano</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period:</b> 10/2020 - 12/2023 (PhD)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-supervised with:</b> M. Grangetto (University of Turin)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Post-doc at University of Turin.</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Post-doc at Inria.</p>
   <div style="clear: both;"></div>
 </div>
 
@@ -244,7 +246,7 @@ nav_order: 4
   <h5 style="margin: 0"><b>Benoit Dufumier</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period:</b> 10/2019 - 12/2022 (PhD)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-supervised with:</b> E. Duchesnay (Neurospin, CEA)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Post-doc at EPFL.</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> CEA Researcher at Neurospin.</p>
   <div style="clear: both;"></div>
 </div>
 
@@ -253,7 +255,7 @@ nav_order: 4
   <h5 style="margin: 0"><b>Giammarco La Barbera</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period:</b> 10/2019 - 12/2022 (PhD)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-supervised with:</b> I. Bloch (Télécom Paris), L. Rouet (Philips), and S. Sarnacki (Necker hospital)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Research Engineer at Necker hospital.</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> CTO of the Start-up Replico.</p>
   <div style="clear: both;"></div>
 </div>
 
@@ -262,7 +264,7 @@ nav_order: 4
   <h5 style="margin: 0"><b>Mateus Riva</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period:</b> 02/2019 - 12/2022 (PhD)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-supervised with:</b> I. Bloch (Télécom Paris) and F. Yger (PSL)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> AI Data Engineer at Valeo.</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Now:</b> AI Engineer at MSD APEX.</p>
   <div style="clear: both;"></div>
 </div>
 
