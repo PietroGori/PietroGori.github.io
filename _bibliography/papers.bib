@@ -9,6 +9,38 @@
 	abbr = {IEEE FUZZ}
 }
 
+
+@article{barbano_robust_2026,
+	title = {Robust brain age estimation from structural {MRI} with contrastive learning},
+	url = {https://www.sciencedirect.com/science/article/pii/S0167865526000814},
+	abstract = {Estimating brain age from structural MRI has emerged as a powerful tool for characterizing normative and pathological aging. In this work, we explore contrastive learning as a scalable and robust alternative to L1-supervised approaches for brain age estimation. We introduce a novel contrastive loss function, Lexp, and evaluate it across multiple public neuroimaging datasets comprising over 20,000 scans. Our experiments reveal four key findings. First, scaling pre-training on diverse, multi-site data consistently improves generalization performance, cutting external mean absolute error (MAE) nearly in half. Second, Lexp is robust to site-related confounds, maintaining low scanner-predictability as training size increases. Third, contrastive models reliably capture accelerated aging in patients with cognitive impairment and Alzheimer’s disease, as shown through brain age gap analysis, ROC curves, and longitudinal trends. Lastly, unlike L1-supervised baselines, Lexp maintains a strong correlation between brain age accuracy and downstream diagnostic performance, supporting its potential as a foundation model for neuroimaging. These results position contrastive learning as a promising direction for building generalizable and clinically meaningful brain representations.},
+	journal = {Pattern Recognition Letters},
+	author = {Barbano, Carlo Alberto and Dufumier, Benoit and Duchesnay, Edouard and Grangetto, Marco and Gori, Pietro},
+	year = {2026},
+	abbr = {PRL}
+}
+
+@inproceedings{arrivat_leveraging_2026,
+	title = {Leveraging whole slide difficulty in {Multiple} {Instance} {Learning} to improve prostate cancer grading},
+	url = {https://arxiv.org/abs/2603.09953},
+	abstract = {Multiple Instance Learning (MIL) has been widely applied in histopathology to classify Whole Slide Images (WSIs) with slide-level diagnoses. While the ground truth is established by expert pathologists, the slides can be difficult to diagnose for non-experts and lead to disagreements between the annotators. In this paper, we introduce the notion of Whole Slide Difficulty (WSD), based on the disagreement between an expert and a non-expert pathologist. We propose two different methods to leverage WSD, a multi-task approach and a weighted classification loss approach, and we apply them to Gleason grading of prostate cancer slides. Results show that integrating WSD during training consistently improves the classification performance across different feature encoders and MIL methods, particularly for higher Gleason grades (i.e. worse diagnosis).},
+	booktitle = {{ISBI}},
+	author = {Arrivat, Marie and Peyret, Rémy and Angelini, Elsa and Gori, Pietro},
+	year = {2026},
+	abbr = {IEEE ISBI}
+}
+
+@inproceedings{miralles_unsupervised_2026,
+	title = {Unsupervised {Domain} {Adaptation} with {Target}-{Only} {Margin} {Disparity} {Discrepancy}},
+	url = {http://arxiv.org/abs/2603.09932},
+	abstract = {In interventional radiology, Cone-Beam Computed Tomography (CBCT) is a helpful imaging modality that provides guidance to practicians during minimally invasive procedures. CBCT differs from traditional Computed Tomography (CT) due to its limited reconstructed field of view, specific artefacts, and the intra-arterial administration of contrast medium. While CT benefits from abundant publicly available annotated datasets, interventional CBCT data remain scarce and largely unannotated, with existing datasets focused primarily on radiotherapy applications. To address this limitation, we leverage a proprietary collection of unannotated interventional CBCT scans in conjunction with annotated CT data, employing domain adaptation techniques to bridge the modality gap and enhance liver segmentation performance on CBCT. We propose a novel unsupervised domain adaptation (UDA) framework based on the formalism of Margin Disparity Discrepancy (MDD), which improves target domain performance through a reformulation of the original MDD optimization framework. Experimental results on CT and CBCT datasets for liver segmentation demonstrate that our method achieves state-of-the-art performance in UDA, as well as in the few-shot setting.},
+	booktitle = {{ISBI}},
+	author = {Miralles, Gauthier and Folgoc, Loïc Le and Jugnon, Vincent and Gori, Pietro},
+	year = {2026},
+	abbr = {IEEE ISBI}
+}
+
+
 @inproceedings{barbera_visionerves_2025,
 	title = {Visionerves: Automatic and Reproducible Hybrid {AI} for Peripheral Nervous System Recognition Applied to Endometriosis Cases},
 	abstract = {Endometriosis often leads to chronic pelvic pain and possible nerve involvement, yet imaging the peripheral nerves remains a challenge. We introduce Visionerves, a novel hybrid {AI} framework for peripheral nervous system recognition from multi-gradient {DWI} and morphological {MRI} data. Unlike conventional tractography, Visionerves encodes anatomical knowledge through fuzzy spatial relationships, removing the need for selection of manual {ROIs}. The pipeline comprises two phases: (A) automatic segmentation of anatomical structures using a deep learning model, and (B) tractography and nerve recognition by symbolic spatial reasoning. Applied to the lumbosacral plexus in 10 women with (confirmed or suspected) endometriosis, Visionerves demonstrated substantial improvements over standard tractography, with Dice score improvements of up to 25\% and spatial errors reduced to less than 5 mm. This automatic and reproducible approach enables detailed nerve analysis and paves the way for non-invasive diagnosis of endometriosis-related neuropathy, as well as other conditions with nerve involvement.},
