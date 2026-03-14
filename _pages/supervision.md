@@ -135,8 +135,16 @@ nav_order: 4
 
 </div>
 
+<!--
+
 <div style="text-align: center;"><h2>Postdocs</h2></div>
 <div style="margin-bottom: 20px;">
+
+
+</div>
+-->
+
+<div style="text-align: center;"><h2>Alumni (PhD and Postdocs)</h2></div>
 
 <div class="person">
   <img src="../assets/img/michael.jpg" alt="Michael" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
@@ -144,12 +152,9 @@ nav_order: 4
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 02/2025 - 02/2026</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> A. Newson (Sorbonne Université)</p>
   <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Diffusion models for Contrastive Analysis</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Now:</b>Postdoc at Inria Grenoble.</p>
   <div style="clear: both;"></div>
 </div>
-
-</div>
-
-<div style="text-align: center;"><h2>Alumni (PhD and Postdocs)</h2></div>
 
 <div class="person">
   <img src="../assets/img/ali.jpeg" alt="Ali" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
