@@ -14,6 +14,15 @@ nav_order: 4
 <div style="margin-bottom: 20px;">
 
 <div class="person">
+  <img src="../assets/img/Antoine.jpg" alt="Antoine" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Antoine Mirri</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 04/2026 - 12/2028</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Sorbonne Université)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Automatic segmentation of pelvic nerves using hybrid and trustworthy AI </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
   <img src="../assets/img/Kumar.jpg" alt="Akshita" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Akshita Kumar</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 02/2026 - 12/2028</p>
@@ -135,13 +144,23 @@ nav_order: 4
 
 </div>
 
-<!--
 
-<div style="text-align: center;"><h2>Postdocs</h2></div>
+
+<div style="text-align: center;"><h2>Postdocs and Research Engineer</h2></div>
 <div style="margin-bottom: 20px;">
+
+<div class="person">
+  <img src="../assets/img/maximeHuppe.jpeg" alt="MaximeHuppe" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Maxime Huppe</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 04/2026 - 09/2027</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> I. Bloch (Sorbonne Université)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b>Automatic identification and segmentation of human nerves using hybrid and trustworthy AI</p>
+  <div style="clear: both;"></div>
+</div>
 
 
 </div>
+<!--
 -->
 
 <div style="text-align: center;"><h2>Alumni (PhD and Postdocs)</h2></div>
