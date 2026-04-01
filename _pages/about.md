@@ -24,6 +24,8 @@ In 2017, I joined Télécom Paris as *Maître de conférences* (Associate Profes
 
 I participated to the development of the open source software [deformetrica](https://pypi.org/project/deformetrica/) for statistical shape analysis and of the software platform [Clinica](https://www.clinica.run/) for clinical neuroimaging studies. I am currently an Associate Editor for *Neurocomputing* and regularly serve as a reviewer for conferences and journals in Medical Imaging (*e.g.,* MICCAI, MIDL, ISBI, IEEE TMI, MedIA) and AI (*e.g.,* ICLR, AISTATS, AAAI, ECCV, JMLR, TPAMI).
 
+I am also one of the co-founders and scientific advisor of the start-up Replico.
+
 My research interests lie primarily in the fields of machine learning, AI, representation learning, medical imaging and computational anatomy.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
