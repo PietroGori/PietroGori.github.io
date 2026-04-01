@@ -170,7 +170,6 @@ nav_order: 4
   <h5 style="margin: 0"><b>Michael Soumm</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 02/2025 - 02/2026</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> A. Newson (Sorbonne Université)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Diffusion models for Contrastive Analysis</p>
   <p style="margin: 0; line-height: 1.2;"><b>Now:</b>Postdoc at Inria Grenoble.</p>
   <div style="clear: both;"></div>
 </div>
@@ -180,7 +179,6 @@ nav_order: 4
   <h5 style="margin: 0"><b>Ali Mammadov</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2022 - 12/2025</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. Le Folgoc (Télécom Paris), G. Hocquet and J. Adam (Paris Saint-Joseph hospital)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Deep SjS: a deep learning approach for the diagnosis and evolution prediction of the Sjögren’s syndrome</p>
    <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Computer Vision Research Engineer at SeeHaptic.</p>
   <div style="clear: both;"></div>
 </div>
@@ -189,7 +187,6 @@ nav_order: 4
   <img src="../assets/img/yunlong.jpeg" alt="Yunlong" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Yunlong He</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2023 - 12/2025</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Improving GAN and Diffusion based Contrastive Analysis</p>
    <p style="margin: 0; line-height: 1.2;"><b>Now:</b> Post-doc.</p>
   <div style="clear: both;"></div>
 </div>
