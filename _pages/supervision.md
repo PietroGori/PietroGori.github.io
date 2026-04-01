@@ -146,7 +146,7 @@ nav_order: 4
 
 
 
-<div style="text-align: center;"><h2>Postdocs and Research Engineer</h2></div>
+<div style="text-align: center;"><h2>Postdocs and Research Engineers</h2></div>
 <div style="margin-bottom: 20px;">
 
 <div class="person">
