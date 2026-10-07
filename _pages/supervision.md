@@ -14,7 +14,7 @@ nav_order: 4
 <div style="margin-bottom: 20px;">
 
 <div class="person">
-  <img src="../assets/img/Thomas.jpg" alt="thomas" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <img src="../assets/img/Thomas.jpeg" alt="thomas" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Thomas Dagonneau</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2026 - 10/2029</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. le Folgoc (Télécom Paris) and J. Cohen-Adad (Polytechnique Montréal)</p>
@@ -23,7 +23,7 @@ nav_order: 4
 </div> 
 
 <div class="person">
-  <img src="../assets/img/Phileas.jpg" alt="phileas" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <img src="../assets/img/Phileas.jpeg" alt="phileas" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Philéas Grenade</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2026 - 10/2029</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. le Folgoc (Télécom Paris) and N. Bonifas (Rainpath) </p>
