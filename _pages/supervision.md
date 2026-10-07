@@ -14,6 +14,24 @@ nav_order: 4
 <div style="margin-bottom: 20px;">
 
 <div class="person">
+  <img src="../assets/img/Thomas.jpg" alt="thomas" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Thomas Dagonneau</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2026 - 10/2029</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. le Folgoc (Télécom Paris) and J. Cohen-Adad (Polytechnique Montréal)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Learning multimodal representations for decision support in spinal radiology from MRI images </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
+  <img src="../assets/img/Phileas.jpg" alt="phileas" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Philéas Grenade</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2026 - 10/2029</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> L. le Folgoc (Télécom Paris) and N. Bonifas (Rainpath) </p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Beyond Frozen Foundation Model, Trusworthy and Data-Efficient Weakly Supervised Learning in Computational Pathology </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
   <img src="../assets/img/Antoine.jpg" alt="Antoine" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Antoine Mirri</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 04/2026 - 12/2028</p>
@@ -133,14 +151,6 @@ nav_order: 4
   <div style="clear: both;"></div>
 </div>
 
-<div class="person">
-  <img src="../assets/img/ismael.jpeg" alt="Ismael" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
-  <h5 style="margin: 0"><b>Ismaël Mounim</b></h5>
-  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2023 - 06/2026</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> E. Angelini (Télécom Paris), G. El Fakhri and Chao Ma (Yale Medical School)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Posterior Estimation of MRI and PET parametric maps using variational auto-encoders</p>
-  <div style="clear: both;"></div>
-</div>
 
 </div>
 
@@ -164,6 +174,16 @@ nav_order: 4
 -->
 
 <div style="text-align: center;"><h2>Alumni (PhD and Postdocs)</h2></div>
+
+<div class="person">
+  <img src="../assets/img/ismael.jpeg" alt="Ismael" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Ismaël Mounim</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2023 - 10/2026</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> E. Angelini (Télécom Paris), G. El Fakhri and Chao Ma (Yale Medical School)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Posterior Estimation of MRI and PET parametric maps using variational auto-encoders</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Now:</b>Postdoc at Yale Medical School.</p>
+  <div style="clear: both;"></div>
+</div>
 
 <div class="person">
   <img src="../assets/img/michael.jpg" alt="Michael" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
