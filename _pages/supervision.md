@@ -180,7 +180,6 @@ nav_order: 4
   <h5 style="margin: 0"><b>Ismaël Mounim</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 01/2023 - 10/2026</p>
   <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> E. Angelini (Télécom Paris), G. El Fakhri and Chao Ma (Yale Medical School)</p>
-  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Posterior Estimation of MRI and PET parametric maps using variational auto-encoders</p>
   <p style="margin: 0; line-height: 1.2;"><b>Now:</b>Postdoc at Yale Medical School.</p>
   <div style="clear: both;"></div>
 </div>
