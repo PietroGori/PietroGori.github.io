@@ -14,6 +14,15 @@ nav_order: 4
 <div style="margin-bottom: 20px;">
 
 <div class="person">
+  <img src="../assets/img/Morgan.jpg" alt="thomas" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
+  <h5 style="margin: 0"><b>Morgan Scalabrino</b></h5>
+  <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2026 - 10/2029</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Co-superivsed with:</b> M. Di Folco and E. Angelini (Télécom Paris)</p>
+  <p style="margin: 0; line-height: 1.2;"><b>Title:</b> Multimodal Representation Learning for Breast Cancer Decision Support from Imaging and Clinical Data </p>
+  <div style="clear: both;"></div>
+</div> 
+
+<div class="person">
   <img src="../assets/img/Thomas.jpeg" alt="thomas" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 15px; margin-bottom: 15px;  float: left;">
   <h5 style="margin: 0"><b>Thomas Dagonneau</b></h5>
   <p style="margin: 0; line-height: 1.2;"><b>Period</b>: 10/2026 - 10/2029</p>
